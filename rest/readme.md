@@ -1,7 +1,7 @@
 
 ### REST API con Spring Boot
 
-Para ejecutar el REST API, navega al directorio `rest-api-spring-boot/` y ejecuta los siguientes comandos:
+Para ejecutar el REST API, navega al directorio `rest/` y ejecuta los siguientes comandos:
 
 cd rest
 mvn spring-boot:run
